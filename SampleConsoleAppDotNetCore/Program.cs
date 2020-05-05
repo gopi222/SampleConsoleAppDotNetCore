@@ -6,6 +6,7 @@ namespace SampleConsoleAppDotNetCore
     {
         static void Main(string[] args)
         {
+            new SampleClass().Fun();
             Console.WriteLine("Hello World Gopinath!");
         }
     }
